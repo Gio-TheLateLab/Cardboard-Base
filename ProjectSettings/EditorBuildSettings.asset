@@ -5,11 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Niche.unity
+    guid: 6519f406a4acde64c97f6707a69c4842
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: 85a77429d24668a41b9322ab0d99a46e
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ef70db396aaae3740a77b6703c712dff, type: 2}

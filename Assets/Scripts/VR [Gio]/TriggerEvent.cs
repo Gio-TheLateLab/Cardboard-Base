@@ -15,7 +15,7 @@ namespace Gio {
 
         ParticleSystem ps;
         ParticleSystem.MainModule main;
-
+        public Discoteca discoteca;
         int state = 0;
         float t1 = 0, t2 = 0;
 
